@@ -19,7 +19,7 @@ I enjoy learning how intelligent systems are built and turning what I learn into
 
 ### 🎯 Goal
 
-To become a skilled **AI/ML Engineer** by building strong fundamentals, developing meaningful projects, and continuously learning.
+To become a skilled **ML Engineer** by building strong fundamentals, developing meaningful projects, and continuously learning.
 
 ### 📍 About Me
 
@@ -31,7 +31,7 @@ To become a skilled **AI/ML Engineer** by building strong fundamentals, developi
 
 ---
 
-> **Going Through Hell ,and Will Keep Going**
+> **Going Through Hell and Will Keep Going**
 <!--
 **kaushik1506/kaushik1506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
